@@ -17,7 +17,9 @@ This program is define to be finished
 ### How to start? 
 Talk with your mentor, introduce yourself, agree on the time you will have your daily meeting with them. You need a talos email account, you need your slack account to be able to communicate with your mentor. If you do not have access to any of below items ask your immediate manager(SM/PO/Mentor) or HR to help you with this. 
 
-You should read about Angularjs Documentation, in this examples why asume that you have a previus knowlage about Angular and about web development.
+Before taking this course, you should have at least an intermediate level of html and css. Given that, we have a course prepared for you [Talos html and css course][13].  
+
+You should also read about Angularjs Documentation, in these examples we asume that you have a previus knowlage about Angular and about web development [Angular Style Guide][3].
 
 * If you are new in Angular please take a look of [Code School Angular Courses][1], also [Angular Documentation][2] there you can find enough information to get a better understanding about how Angular works.
 * You should read the [Angular Style Guide][3] by johnpapa, there you will find examples of common errors and the best way to arrange your code, this is not the only way of coding with angular, but it’s a very good to way to understand how to use angular correctly. 
@@ -59,3 +61,6 @@ Set up your environment, in each example folder:
  [10]: https://github.com/talosdigital/u-angularjs/tree/master/006-basic-testing
  [11]: https://github.com/talosdigital/u-angularjs/tree/master/007-end-to-end
  [12]: https://github.com/talosdigital/u-angularjs/tree/master/008-testing-directives
+ [13]: https://drive.google.com/drive/u/0/folders/0B1IoBiWvJpgTOElOcWdRQUQ2Nkk
+
+ 
