@@ -13,7 +13,15 @@
         templateUrl: 'app/states/home/home.html',
         controller: 'HomeController',
         controllerAs: 'homeCtrl'
-      });
+      })
+
+      .state('dashboard', {
+          url: '/dashboard',
+          params: {usrvalue: {}},
+          templateUrl: 'app/states/dashboard/dashboard.html',
+          controller: 'DashboardController',
+          controllerAs: 'dashboardCtrl'
+        });
 
     $urlRouterProvider.otherwise('/');
   }

@@ -6,6 +6,7 @@
     .controller('HomeController', HomeController);
 
   /** @ngInject */
+
   function HomeController($log, SITE_NAME) {
     var vm = this;
     vm.mainTitle = SITE_NAME;
